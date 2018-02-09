@@ -1,0 +1,2 @@
+# elokrizna
+btc miner
